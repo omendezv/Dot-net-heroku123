@@ -1,0 +1,8 @@
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\bin\Debug\netcoreapp2.0\Dot-Net-Heroku.deps.json
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\bin\Debug\netcoreapp2.0\Dot-Net-Heroku.runtimeconfig.json
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\bin\Debug\netcoreapp2.0\Dot-Net-Heroku.runtimeconfig.dev.json
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\bin\Debug\netcoreapp2.0\Dot-Net-Heroku.dll
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\obj\Debug\netcoreapp2.0\Dot-Net-Heroku.csprojResolveAssemblyReference.cache
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\obj\Debug\netcoreapp2.0\Dot-Net-Heroku.csproj.CoreCompileInputs.cache
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\obj\Debug\netcoreapp2.0\Dot-Net-Heroku.AssemblyInfoInputs.cache
+C:\Users\osmendez.COHBRI\Source\Workspaces\MyApp\Dot-Net-Heroku\Dot-Net-Heroku\obj\Debug\netcoreapp2.0\Dot-Net-Heroku.AssemblyInfo.cs
